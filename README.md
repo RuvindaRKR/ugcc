@@ -1,2 +1,0 @@
-# falca
-ugcc panel
